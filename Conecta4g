@@ -1,11 +1,11 @@
 {
-  "Version": "2",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "EmailFeedback": "",
   "UrlContato": "",
-  "UrlTermos": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "",
   "Udp": [
     {
@@ -56,6 +56,15 @@
       "ProxyIP": "unpkg.com",
       "ProxyPort": "80",
       "Info": "Proxy"
-    }
+    },
+    {
+      "Name": "MOVISTAR AR",
+      "FLAG": "movistar",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "unpkg.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
   ]
 }
