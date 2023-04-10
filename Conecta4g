@@ -1,5 +1,5 @@
 {
-  "Version": "6",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
@@ -34,18 +34,7 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-            {
-              "Name": "🇧🇷BRASIL🇧🇷",
-              "TYPE": "FREE",
-              "FLAG": "br.png",
-              "ServerIP": "bra2.hackkcah.net",
-              "CheckUser": "bra2.hackkcah.net",
-              "ServerPort": "22",
-              "SSLPort": "443",
-              "USER": "Jeferson",
-              "PASS": "Jeferson"   
-            }
+    }
   ],
   "Networks": [
     {
