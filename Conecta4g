@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.2",
+  "Version": "2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "EmailFeedback": "",
   "UrlContato": "",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "CheckUser": "",
   "Udp": [
     {
