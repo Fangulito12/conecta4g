@@ -1,8 +1,8 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
-  "Sms": "",
+  "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "EmailFeedback": "",
   "UrlContato": "",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
@@ -17,7 +17,7 @@
       "Name": "🇵🇾Tigo ip BR",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "d14mot35htwv3r.cloudfront.net",
+      "ServerIP": "",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -34,7 +34,18 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
+            {
+              "Name": "🇧🇷BRASIL🇧🇷",
+              "TYPE": "FREE",
+              "FLAG": "br.png",
+              "ServerIP": "bra2.hackkcah.net",
+              "CheckUser": "bra2.hackkcah.net",
+              "ServerPort": "22",
+              "SSLPort": "443",
+              "USER": "Jeferson",
+              "PASS": "Jeferson"   
+            }
   ],
   "Networks": [
     {
@@ -57,5 +68,35 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+                   { 
+                  "Name": "🟣╰┈[?> VIVO EASY 25 ?", 
+                  "FLAG": "vivo", 
+                  "Payload": "FREEFORALL wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: FREEFORALL[crlf]X-Forward-Host: FREEFORALL[crlf]Connection: Keep-Alive[crlf]Referer: FREEFORALL[crlf][crlf]", 
+                  "SNI": "unpkg.com", 
+                  "TlsIP": "unpkg.com", 
+                  "ProxyIP": "", 
+                  "ProxyPort": "443", 
+                  "Info": "Tlsws"
+            },  
+            {
+               "Name": "🟡╰┈[?> Oi ON-LINE",
+               "FLAG": "oi",
+               "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+               "SNI": "[app_host]",
+               "TlsIP": "104.16.51.91",
+               "ProxyIP": "",
+               "ProxyPort": "443",
+               "Info": "Tlsws"
+               },
+            {
+               "Name": "🟡╰┈[?> Oi NOVA 01",
+               "FLAG": "oi",
+               "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+               "SNI": "www.hbogo.com.br",
+               "TlsIP": "www.hbogo.com.br",
+               "ProxyIP": "",
+               "ProxyPort": "443",
+               "Info": "Tlsws"
+            },
   ]
 }
