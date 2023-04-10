@@ -1,5 +1,5 @@
 {
-  "Version": "3",
+  "Version": "4",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
@@ -17,7 +17,7 @@
       "Name": "🇵🇾Tigo ip BR",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "",
+      "ServerIP": "d14mot35htwv3r.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
