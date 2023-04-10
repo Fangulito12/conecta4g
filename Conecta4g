@@ -67,16 +67,6 @@
       "ProxyIP": "unpkg.com",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },  
-            {
-               "Name": "🟡╰┈[?> Oi ON-LINE",
-               "FLAG": "oi",
-               "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
-               "SNI": "[app_host]",
-               "TlsIP": "104.16.51.91",
-               "ProxyIP": "",
-               "ProxyPort": "443",
-               "Info": "Tlsws"
-             },
-     ]
+    },
+  ]
 }
