@@ -1,8 +1,8 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=",
-  "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
+  "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
+  "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "EmailFeedback": "apolossh@gmail.com",
   "UrlContato": "https://t.me/apolo_vx",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
