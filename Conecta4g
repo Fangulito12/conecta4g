@@ -57,15 +57,5 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
-    {
-      "Name": "MOVISTAR AR",
-      "FLAG": "movistar",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "unpkg.com",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
   ]
 }
