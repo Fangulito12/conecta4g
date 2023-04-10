@@ -78,15 +78,5 @@
                "ProxyPort": "443",
                "Info": "Tlsws"
                },
-            {
-               "Name": "🟡╰┈[?> Oi NOVA 01",
-               "FLAG": "oi",
-               "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-               "SNI": "www.hbogo.com.br",
-               "TlsIP": "www.hbogo.com.br",
-               "ProxyIP": "",
-               "ProxyPort": "443",
-               "Info": "Tlsws"
-            },
   ]
 }
