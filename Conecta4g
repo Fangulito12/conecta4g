@@ -1,5 +1,5 @@
 {
-  "Version": "4",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "",
@@ -66,5 +66,6 @@
       "ProxyIP": "unpkg.com",
       "ProxyPort": "80",
       "Info": "Proxy"
+    },
   ]
 }
