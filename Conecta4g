@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
@@ -44,8 +44,8 @@
       "SNI": "d14mot35htwv3r.cloudfront.net",
       "TlsIP": "",
       "ProxyIP": "13.227.126.44",
-      "ProxyPort": "443",
-      "Info": "Proxytlsws"
+      "ProxyPort": "",
+      "Info": "tlsws"
     },
     {
       "Name": "🇦🇷MOVISTAR AR",
