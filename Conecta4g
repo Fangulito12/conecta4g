@@ -42,10 +42,10 @@
       "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
-      "TlsIP": "",
+      "TlsIP": "13.227.126.44",
       "ProxyIP": "13.227.126.44",
-      "ProxyPort": "",
-      "Info": "tlsws"
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
     {
       "Name": "🇦🇷MOVISTAR AR",
