@@ -38,8 +38,8 @@
   ],
   "Networks": [
     {
-      "Name": "🇦🇷Tigo py",
-      "FLAG": "tigo py",
+      "Name": "🇵🇾Tigo py",
+      "FLAG": "py.png",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
       "TlsIP": "13.227.126.44",
@@ -49,7 +49,7 @@
     },
     {
       "Name": "🇵🇾Tigo con Pack Gamer",
-      "FLAG": "🇵🇾",
+      "FLAG": "py.png",
       "Payload": "BMOVE /shop.callofduty.com HTTP/1.1[lf]Host:shop.callofduty.com[lf][lf]BDELETE h2://shop.callofduty.com HTTP/1.1[lf]Host: shop.callofduty.com [lf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
