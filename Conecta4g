@@ -17,9 +17,9 @@
       "Name": "🇵🇾Tigo ip BR",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "",
+      "ServerIP": "4.228.107.154",
       "CheckUser": "",
-      "ServerPort": "22",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
