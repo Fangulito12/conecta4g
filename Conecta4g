@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
@@ -17,7 +17,7 @@
       "Name": "🇵🇾Tigo ip BR",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "d14mot35htwv3r.cloudfront.net",
+      "ServerIP": "",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -38,7 +38,7 @@
   ],
   "Networks": [
     {
-      "Name": "🇵🇾Tigo py",
+      "Name": "🇦🇷Tigo py",
       "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
@@ -46,6 +46,16 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "🇵🇾Tigo con Pack Gamer",
+      "FLAG": "🇵🇾",
+      "Payload": "BMOVE /shop.callofduty.com HTTP/1.1[lf]Host:shop.callofduty.com[lf][lf]BDELETE h2://shop.callofduty.com HTTP/1.1[lf]Host: shop.callofduty.com [lf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "4.228.107.154",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "🇦🇷MOVISTAR AR",
