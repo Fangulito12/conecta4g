@@ -17,9 +17,9 @@
       "Name": "🇵🇾Tigo ip BR",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "4.228.107.154",
+      "ServerIP": "",
       "CheckUser": "",
-      "ServerPort": "80",
+      "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -34,12 +34,23 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
+            {
+              "Name": "🇧🇷BRASIL🇧🇷",
+              "TYPE": "FREE",
+              "FLAG": "br.png",
+              "ServerIP": "bra2.hackkcah.net",
+              "CheckUser": "bra2.hackkcah.net",
+              "ServerPort": "22",
+              "SSLPort": "443",
+              "USER": "Jeferson",
+              "PASS": "Jeferson"   
+            }
   ],
   "Networks": [
     {
-      "Name": "🇵🇾Tigo py",
-      "FLAG": "py.png",
+      "Name": "🇦🇷Tigo py",
+      "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
       "TlsIP": "13.227.126.44",
@@ -49,7 +60,7 @@
     },
     {
       "Name": "🇵🇾Tigo con Pack Gamer",
-      "FLAG": "py.png",
+      "FLAG": "🇵🇾",
       "Payload": "BMOVE /shop.callofduty.com HTTP/1.1[lf]Host:shop.callofduty.com[lf][lf]BDELETE h2://shop.callofduty.com HTTP/1.1[lf]Host: shop.callofduty.com [lf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -67,5 +78,35 @@
       "ProxyPort": "80",
       "Info": "Proxy"
     },
+                   { 
+                  "Name": "🇧🇷╰┈[?> VIVO EASY 25 ?", 
+                  "FLAG": "br.png", 
+                  "Payload": "FREEFORALL wss://unpkg.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: FREEFORALL[crlf]X-Forward-Host: FREEFORALL[crlf]Connection: Keep-Alive[crlf]Referer: FREEFORALL[crlf][crlf]", 
+                  "SNI": "unpkg.com", 
+                  "TlsIP": "unpkg.com", 
+                  "ProxyIP": "", 
+                  "ProxyPort": "443", 
+                  "Info": "Tlsws"
+            },  
+            {
+               "Name": "🇧🇷╰┈[?> Oi ON-LINE",
+               "FLAG": "br.png",
+               "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+               "SNI": "[app_host]",
+               "TlsIP": "104.16.51.91",
+               "ProxyIP": "",
+               "ProxyPort": "443",
+               "Info": "Tlsws"
+               },
+            {
+               "Name": "🇧🇷╰┈[?> Oi NOVA 01",
+               "FLAG": "br.png",
+               "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+               "SNI": "www.hbogo.com.br",
+               "TlsIP": "www.hbogo.com.br",
+               "ProxyIP": "",
+               "ProxyPort": "443",
+               "Info": "Tlsws"
+            },
   ]
 }
