@@ -49,7 +49,7 @@
   ],
   "Networks": [
     {
-      "Name": "🇦🇷Tigo py",
+      "Name": "🇵🇾Tigo py",
       "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
