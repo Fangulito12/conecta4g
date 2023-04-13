@@ -50,7 +50,7 @@
   "Networks": [
     {
       "Name": "🇵🇾Tigo py",
-      "FLAG": "tigo py",
+      "FLAG": "🇵🇾tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
       "TlsIP": "13.227.126.44",
