@@ -53,9 +53,9 @@
       "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
-      "TlsIP": "",
-      "Proxy ip": "65.8.214.92",
-      "Puerto próximo": "443",
+      "TlsIP": "65.8.214.92",
+      "IP de proxy": "",
+      "Puerto próximo": "",
       "Info": "Tlsws"
     },
     {
@@ -71,7 +71,7 @@
     {
       "Name": "🇦🇷MOVISTAR AR",
       "FLAG": "movistar",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Carga útil": "GET / HTTP/1.1[crlf]Host: [host][crlf]Actualización: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "unpkg.com",
