@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "Nova Atualização Disponível",
+  "Version": "1.0.3",
+  "ReleaseNotes": "Nueva actualización disponible",
   "UrlUpdate": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "Sms": "https://raw.githubusercontent.com/Fangulito12/conecta4g/main/Conecta4g",
   "EmailFeedback": "",
@@ -53,9 +53,9 @@
       "FLAG": "tigo py",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14mot35htwv3r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "d14mot35htwv3r.cloudfront.net",
-      "TlsIP": "13.227.97.126",
-      "ProxyIP": "",
-      "ProxyPort": "",
+      "TlsIP": "",
+      "Proxy ip": "65.8.214.92",
+      "Puerto próximo": "443",
       "Info": "Tlsws"
     },
     {
